@@ -1,3 +1,11 @@
+After deployment the below image shows the output:
+![image](https://github.com/sakshib-b/crowdfundDapp/assets/138519467/e0866910-5abb-4707-905e-02bd7963a67a)
+
+
+
+
+
+
 # Hardhat Fund Me
 
 This is a demo project that shows you how to make a crowd sourcing application that can understand pricing in USD using [Chainlink Price Feed](https://docs.chain.link/data-feeds).
